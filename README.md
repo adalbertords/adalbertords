@@ -12,7 +12,7 @@ Sou um desenvolvedor back-end com experiência em diversas tecnologias e prátic
   - **NoSQL:** MongoDB, Redis
 
 ## 📫 Como me encontrar
-[![Linkedin Badge](https://img.shields.io/badge/-Adalberto Ramos dos Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adalberto-ramos-dos-santos-dev/)](https://www.linkedin.com/in/adalberto-ramos-dos-santos-dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-Adalberto_Ramos_dos_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adalberto-ramos-dos-santos-dev/)](https://www.linkedin.com/in/adalberto-ramos-dos-santos-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-601santos.11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:601santos.11@gmail.com)](mailto:601santos.11@gmail.com)
 
 
