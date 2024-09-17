@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Adalberto Ramos dos Santos! 👋
 
-<!--
-**adalbertords/adalbertords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre
+Sou um desenvolvedor back-end com experiência em diversas tecnologias e práticas modernas de engenharia de software. Me especializo em C# e tenho uma sólida experiência com arquiteturas orientadas a domínio (DDD) e padrões CQRS.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens de Programação:** C#
+- **Padrões:** ​​.NET, DDD, CQRS, APIs RESTful
+- **Contêinerização:** Docker, Docker Compose
+- **Bancos de Dados:**
+  - **SQL:** SQL Server, Oracle, PostgreSQL, MySQL
+  - **NoSQL:** MongoDB, Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+[![Linkedin Badge](https://img.shields.io/badge/-Adalberto Ramos dos Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adalberto-ramos-dos-santos-dev/)](https://www.linkedin.com/in/adalberto-ramos-dos-santos-dev/)
+[![Gmail Badge](https://img.shields.io/badge/-601santos.11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:601santos.11@gmail.com)](mailto:601santos.11@gmail.com)
+
+
+📧 Email: 601santos.11@gmail.com
+
